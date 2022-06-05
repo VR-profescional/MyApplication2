@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/drawable/ic_christmas_tree.xml" value="0.5225" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/drawable/ic_salute.xml" value="0.5225" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.37055837563451777" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main1.xml" value="0.33" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main10.xml" value="0.5" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main11.xml" value="0.5192708333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main12.xml" value="0.5192708333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main13.xml" value="0.5192708333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main2.xml" value="0.5" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main3.xml" value="0.5" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main4.xml" value="0.5" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main42143214325346656546546345654.xml" value="0.5020833333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main5.xml" value="0.5192708333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main6.xml" value="0.33" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main7.xml" value="0.5192708333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main8.xml" value="0.55" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_main9.xml" value="0.55" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_qquiz2.xml" value="0.36041666666666666" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_quiz.xml" value="0.5020833333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_quiz1.xml" value="0.5192708333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_quiz2.xml" value="0.5192708333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_quiz2_vopr.xml" value="0.33" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_quiz2_vopr_nt_vern.xml" value="0.33" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_quiz4_ne_prav.xml" value="0.5020833333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_quiz4_prav.xml" value="0.5020833333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_quiz4_vopr.xml" value="0.5020833333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_quiz_ne_verno.xml" value="0.5020833333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_quiz_neprav12.xml" value="0.5192708333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_vopros3.xml" value="0.36041666666666666" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_vopros3_ne_prav.xml" value="0.5020833333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_vopros3_prav.xml" value="0.5192708333333333" />
+        <entry key="..\:/Proecty/MyApplication2/app/src/main/res/layout/activity_vopros3q.xml" value="0.5192708333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

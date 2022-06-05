@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtSecond" type="id" />
+    <item name="txtSecond1" type="id" />
+    <item name="btnStart" type="id" />
+    <item name="tv_timer_show" type="id" />
+    <item name="iv_mainImage" type="id" />
+    <item name="iv_santa3" type="id" />
+    <item name="iv_santa2" type="id" />
+    <item name="iv_santa1" type="id" />
+    <item name="txt" type="id" />
+    <item name="imageButton" type="id" />
+</resources>
